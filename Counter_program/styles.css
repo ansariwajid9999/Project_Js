@@ -1,0 +1,27 @@
+#myH1{
+    font-family: Verdana, sans-serif;
+    font-size: 6rem;
+    text-align: center;
+}
+#mydivBtn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.Btn{
+    font-size: 2rem;
+    margin: 0.1rem;
+    padding: 8px;
+    border: none;
+    color: white;
+    background-color: rgb(94, 102, 198);
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.25s;
+}
+.Btn:hover{
+    background-color:  rgb(76, 86, 193);;
+}
+.Btn:active{
+    background-color:  rgb(38, 49, 172);;
+}
