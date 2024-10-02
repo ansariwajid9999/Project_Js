@@ -1,0 +1,18 @@
+label{
+    font-size: 2rem;
+}
+button{
+    font-size: 3rem;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(50, 23, 113);
+    color: white;
+    padding: 10px 15px;
+    transition: 0.25s;
+}
+button:hover{
+    background-color:  rgb(87, 38, 200);
+}
+button:active{
+    background-color:  rgb(99, 86, 131);;
+}
